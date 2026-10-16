@@ -1,0 +1,10 @@
+{
+  "name": "Windows 11 Pro AI Studio OS",
+  "description": "نظام تشغيل Windows 11 Pro 24H2 تفاعلي متكامل مع مدير مهام حي، أسطح مكتب متعددة، تقسيم شاشة ذكي، استوديو رسم وتحرير صور بالذكاء الاصطناعي، وتحكم صوتي مباشر بالعربية مع فحص الشاشة المفتوحة.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
